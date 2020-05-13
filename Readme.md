@@ -1,10 +1,14 @@
 # Torrent all-in-one bot
 
-Lorem ipsum i am too lazy figure what it does yourself
+Forked from https://github.com/patheticGeek/torrent-aio-bot
+I wanna make some changes from it
 
-You might be lazy too so here ya go:
+There are (not implemented yet, if you deploy it, it's just the same with the original one)
+1. Removing search feature
+2. Adding config settings before deploying
+3. Refreshing the theme
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patheticGeek/torrent-aio-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sagirisayang/torrent-aio-bot)
 
 ## TODO after deploy
 
